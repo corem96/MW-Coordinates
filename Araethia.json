@@ -3,7 +3,7 @@
   "Owner": "My son (he wants to remain anonymous)",
   "Other details": "none",
   "Houses coordinates": {
-    "Original house": {
+    "Spawn point": {
       "x": 216.00,
       "y": 72.00,
       "z": 305.00
@@ -22,6 +22,11 @@
       "x": 1212.89,
       "y": 67,
       "x": 444.70
-    }
+    },
+	"Big field house": {
+	  "x": 92,
+	  "y": 70,
+	  "z": 503.5
+	}
   }
 }
