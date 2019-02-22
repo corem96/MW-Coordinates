@@ -2,11 +2,43 @@
   "world name": "Domiriel",
   "Owner": "My son (he wants to remain anonymous)",
   "Other details": "none",
-  "Houses coordinates": {
-    "Cabin in the woods": {
+  "Normal world": {
+    "Main Manor": {
       "x": 134,
       "y": 65,
       "z": 183
+    },
+    "mini cave in woods": {
+      "x": 319,
+      "y": 67,
+      "z": 61
+    },
+    "cave in mountain": {
+      "x": 476,
+      "y": 78,
+      "z": -238
+    },
+    "small cave in small wood": {
+      "x": -74,
+      "y": 65,
+      "z": 248
+    },
+    "small cave in high mountain": {
+      "x": -237,
+      "y": 81,
+      "z": -205
+    },
+    "village house": {
+      "x": -131,
+      "y": 67,
+      "z": -634
+    }
+  },
+  "The Nether": {
+    "portal house": {
+      "x": 24,
+      "y": 81,
+      "z": 20,
     }
   }
 }
