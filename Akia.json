@@ -1,0 +1,25 @@
+{
+    "world name": "Akia",
+    "Owner": "My son (he wants to remain anonymous)",
+    "Other details": "none",
+    "Normal world": {
+      "Main Manor": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Nearest village": {
+        "x": 575,
+        "y": 70,
+        "z": 648
+      },
+      "Second field house": {
+        "x": 561,
+        "y": 67,
+        "z": 465
+      }
+    },
+    "The Nether": {
+      
+    }
+  }
