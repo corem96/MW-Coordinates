@@ -1,0 +1,24 @@
+{
+    "world name": "Myr",
+    "Owner": "My son (he wants to remain anonymous)",
+    "Other details": {
+        "seed": 62999274829
+    },
+    "locations": {
+      "Normal world": {
+        "forest cave": {
+          "x": -226,
+          "y": 64,
+          "z": 620
+        },
+        "Village house": {
+          "x": -312,
+          "y": 64,
+          "z": 412
+        }
+      },
+      "The Nether": {
+        
+      }
+    }
+  }
