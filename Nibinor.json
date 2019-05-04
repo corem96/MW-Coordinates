@@ -1,0 +1,19 @@
+{
+    "world name": "Nibinor",
+    "Owner": "My son (he wants to remain anonymous)",
+    "Other details": {
+        "seed": 311299596
+    },
+    "locations": {
+      "Normal world": {
+        "jungle cave": {
+          "x": 313,
+          "y": 57,
+          "z": 28
+        }
+      },
+      "The Nether": {
+        
+      }
+    }
+  }
