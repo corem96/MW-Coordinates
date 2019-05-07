@@ -1,0 +1,29 @@
+{
+    "world name": "Eragia",
+    "Owner": "My son (he wants to remain anonymous)",
+    "Other details": {
+        "seed": -676194426
+    },
+    "locations": {
+        "Normal world": {
+            "": {
+                "x": -482,
+                "y": 93,
+                "z": 440
+            },
+            "lava-cave in desert": {
+                "x": -1347,
+                "y": 62,
+                "z": 960
+            },
+            "log between badlands": {
+                "x": -785,
+                "y": 70,
+                "z": 287
+            }
+        },
+        "The Nether": {
+
+        }
+    }
+}
