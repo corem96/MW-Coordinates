@@ -1,0 +1,19 @@
+{
+  "world name": "Eras",
+  "Owner": "My son (he wants to remain anonymous)",
+  "Other details": {
+      "seed": -1078576512
+  },
+  "locations": {
+    "Normal world": {
+      "Village house": {
+        "x": -316,
+        "y": 63,
+        "z": 96
+      }
+    },
+    "The Nether": {
+      
+    }
+  }
+}
