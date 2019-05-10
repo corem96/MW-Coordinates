@@ -6,7 +6,7 @@
     },
     "locations": {
         "Normal world": {
-            "": {
+            "Initial cave in desert": {
                 "x": -482,
                 "y": 93,
                 "z": 440
@@ -16,14 +16,48 @@
                 "y": 62,
                 "z": 960
             },
-            "log between badlands": {
+            "little cave between badlands": {
                 "x": -785,
                 "y": 70,
                 "z": 287
+            },
+            "subterranean house": {
+                "x": -738,
+                "y": 62,
+                "z": 828
+            },
+            "lava in desert": {
+                "x": -1135,
+                "y": 68,
+                "z": 957
+            },
+            "Very Far house in badlands": {
+                "x": -1930,
+                "y": 87,
+                "z": 1871
+            },
+            "hi mountain cave at jungle forest": {
+                "x": -2654,
+                "y": 71,
+                "z": 2540
+            },
+            "jungle temple": {
+                "x": -2906,
+                "y": 72,
+                "z": 2564
+            },
+            "the only village": {
+                "x": -4315,
+                "y": 74,
+                "z": 3582
             }
         },
         "The Nether": {
-
+            "original location": {
+                "x": -89,
+                "y": 52,
+                "z": 100
+            }
         }
     }
 }
