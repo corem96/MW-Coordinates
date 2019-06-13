@@ -1,0 +1,40 @@
+{
+    "world name": "Koenia",
+    "Owner": "My son (he wants to remain anonymous)",
+    "Other details": {
+        "seed": -9006251233
+    },
+    "locations": {
+        "regular world": {
+            "Houses": {
+                "first": {
+                    "Name": "white cabin",
+                    "location": {
+                        "x": 105,
+                        "y": 63,
+                        "z": 351
+                    },
+                    "description": "White cabin between mountains deep in a nice forest"
+                }
+            },
+            "Interes locations": {
+                "first": {
+                    "Name": "lava lake",
+                    "location": {
+                        "x": 625,
+                        "y": 63,
+                        "z": 698
+                    },
+                    "description": "lava lake in forest"
+                }
+            }
+        },
+        "The Nether": {
+            "original location": {
+                "x": ,
+                "y": ,
+                "z":
+            }
+        }
+    }
+}
