@@ -1,5 +1,5 @@
 {
-    "world name": "Koenia",
+    "world name": "Boreas",
     "Owner": "My son (he wants to remain anonymous)",
     "Other details": {
         "seed": -9006251233
@@ -25,7 +25,7 @@
                         "y": 63,
                         "z": 698
                     },
-                    "description": "lava lake in forest"
+                    "description": "lava lake "
                 }
             }
         },
