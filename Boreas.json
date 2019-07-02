@@ -33,6 +33,15 @@
                         "z": 4834
                     },
                     "description": "Gray, red and bluish concrete house"
+                },
+                "4": {
+                    "Name": "purple house",
+                    "location": {
+                        "x": -4218,
+                        "y": 65,
+                        "z": 5827
+                    },
+                    "description": "Purple house near jungle"
                 }
             },
             "Interes locations": {
