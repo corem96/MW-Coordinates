@@ -1,0 +1,24 @@
+{
+    "world name": "Akeron",
+    "Owner": "My son (he wants to remain anonymous)",
+    "Other details": {
+        "seed": 0
+    },
+    "locations": {
+        "regular world": {
+            "Houses": {
+                "first": {
+                    "Name": "red/blue house",
+                    "location": {
+                        "x": -104,
+                        "y": 64,
+                        "z": 283
+                    },
+                    "description": "Gray, red and bluish concrete house"
+                }
+            },
+            "Interes locations": {"value": "none"}
+        },
+        "The Nether": {"value": "none"}
+    }
+}
