@@ -14,6 +14,9 @@
                         "y": 68,
                         "z": -490
                     },
+                },
+                "second":{
+                    "Name": "between biomes",
                     "description": "Gray, red and bluish concrete house",
                     "location": {
                         "x": -1352,
@@ -21,9 +24,15 @@
                         "z": 2463
                     },
                 },
-                "second":{
-                    "Name": "between biomes",
-            },
+                "third": {
+                    "Name": "vigalle taiga",
+                    "description": "Gray, red and bluish concrete house",
+                    "location": {
+                        "x": -2295,
+                        "y": 73,
+                        "z": 1762
+                    },
+                }
             "Interes locations": {"value": "none"}
         },
         "The Nether": {"value": "none"}
