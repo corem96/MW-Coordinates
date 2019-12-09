@@ -8,14 +8,21 @@
         "regular world": {
             "Houses": {
                 "first": {
-                    "Name": "red/blue house",
+                    "Name": "at village",
                     "location": {
                         "x": 71,
                         "y": 68,
                         "z": -490
                     },
-                    "description": "Gray, red and bluish concrete house"
-                }
+                    "description": "Gray, red and bluish concrete house",
+                    "location": {
+                        "x": -1352,
+                        "y": 70,
+                        "z": 2463
+                    },
+                },
+                "second":{
+                    "Name": "between biomes",
             },
             "Interes locations": {"value": "none"}
         },
