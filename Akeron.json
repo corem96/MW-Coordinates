@@ -32,7 +32,16 @@
                         "y": 73,
                         "z": 1762
                     },
-                }
+                },
+                "third": {
+                    "Name": "river village",
+                    "description": "in river mountain",
+                    "location": {
+                        "x": -2392,
+                        "y": 73,
+                        "z": 2634
+                    },
+                },
             "Interes locations": {"value": "none"}
         },
         "The Nether": {"value": "none"}
