@@ -7,43 +7,44 @@
     "locations": {
         "regular world": {
             "Houses": {
-                "first": {
+                "1": {
                     "Name": "at village",
                     "location": {
                         "x": 71,
                         "y": 68,
                         "z": -490
-                    },
+                    }
                 },
-                "second":{
+                "2":{
                     "Name": "between biomes",
                     "description": "Gray, red and bluish concrete house",
                     "location": {
                         "x": -1352,
                         "y": 70,
                         "z": 2463
-                    },
+                    }
                 },
-                "third": {
+                "3": {
                     "Name": "vigalle taiga",
                     "description": "Gray, red and bluish concrete house",
                     "location": {
                         "x": -2295,
                         "y": 73,
                         "z": 1762
-                    },
+                    }
                 },
-                "third": {
+                "4": {
                     "Name": "river village",
                     "description": "in river mountain",
                     "location": {
                         "x": -2392,
                         "y": 73,
                         "z": 2634
-                    },
-                },
-            "Interes locations": {"value": "none"}
+                    }
+                }
+            }
         },
+        "Interes locations": {"value": "none"},
         "The Nether": {"value": "none"}
     }
 }
