@@ -1,0 +1,42 @@
+{
+  "world name": "Irindor",
+  "Owner": "My son (he wants to remain anonymous)",
+  "Other details": {
+      "seed": 686298914
+  },
+  "locations": {
+      "regular world": {
+          "Houses": {
+              "1": {
+                  "Name": "white house",
+                  "location": {
+                      "x": 2060,
+                      "y": 67,
+                      "z": -1445
+                  }
+              },
+              "2":{
+                  "Name": "between biomes",
+                  "description": "Gray, red and bluish concrete house",
+                  "location": {
+                      "x": -1352,
+                      "y": 70,
+                      "z": 2463
+                  }
+              }
+          }
+      },
+      "Interes locations": {
+        "1":{
+          "Name": "between mountains",
+          "description": "plain terrain in high land between 3 mountains",
+          "location": {
+              "x": 1812,
+              "y": 76,
+              "z": -1700
+          }
+      }
+      },
+      "The Nether": {"value": "none"}
+  }
+}
