@@ -1,0 +1,52 @@
+{
+    "world name": "Pasania",
+    "Owner": "My son (he wants to remain anonymous)",
+    "Other details": {
+        "seed": -260492818261756287
+    },
+    "locations": {
+        "regular world": {
+            "Houses": {
+                "1": {
+                    "Name": "orange house",
+                    "location": {
+                        "x": -529,
+                        "y": 71,
+                        "z": 118
+                    }
+                },
+                "2":{
+                    "Name": "brown house",
+                    "description": "brown house",
+                    "location": {
+                        "x": -804,
+                        "y": 71,
+                        "z": 825
+                    }
+                },
+                "3": {
+                    "Name": "Dark tower",
+                    "description": "a tower in a high mountain",
+                    "location": {
+                        "x": -777,
+                        "y": 113,
+                        "z": 3755
+                    }
+                }
+            }
+        },
+        "Interes locations": {
+          "1":{
+            "Name": "between mountains",
+            "description": "plain terrain in high land between 3 mountains",
+            "location": {
+                "x": 1812,
+                "y": 76,
+                "z": -1700
+            }
+        }
+    },
+    "The Nether": {"value": "none"}
+    }
+}
+  
