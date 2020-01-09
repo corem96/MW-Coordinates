@@ -32,6 +32,15 @@
                         "y": 113,
                         "z": 3755
                     }
+                },
+                "4": {
+                    "Name": "Badlands house",
+                    "description": "a house between badlands, dark forest and plains",
+                    "location": {
+                        "x": -3240,
+                        "y": 64,
+                        "z": 2630
+                    }
                 }
             }
         },
